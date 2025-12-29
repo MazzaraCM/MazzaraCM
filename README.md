@@ -29,7 +29,7 @@ My focus is on **scalable, efficient, and maintainable architectures**, deliveri
 ## 💼 Experience
 
 ### **Eflexus** — *Software Engineer*  
-📆 Feb 2024 - Present  
+📆 Feb 2024 - Nov 2025  
 - Lead React-based web solutions with focus on scalability.  
 - Architect AI-driven automations to enhance products.  
 - Define coding standards & best practices.  
